@@ -1,2 +1,2 @@
-# Hello-World
-Basic initiation of all compatible modes
+This is my first
+I'm so happy to code at GITHUB !!
